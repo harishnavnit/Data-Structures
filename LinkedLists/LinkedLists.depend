@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1391849866 source:/home/harish/Desktop/CourseWorks/Programming/C++/prgrms/S4/DataStructures/Trials/Projects/Linked_Lists/LinkedLists/List.cpp
+	"List.h"
+
+1391835686 /home/harish/Desktop/CourseWorks/Programming/C++/prgrms/S4/DataStructures/Trials/Projects/Linked_Lists/LinkedLists/List.h
+	<iostream>
+	<cstdlib>
+	<climits>
+	<stdexcept>
+	<string>
+	<algorithm>
+
+1391849652 source:/home/harish/Desktop/CourseWorks/Programming/C++/prgrms/S4/DataStructures/Trials/Projects/Linked_Lists/LinkedLists/main.cpp
+	"List.h"
+	<iostream>
+
+1392654136 source:/home/harish/Desktop/CourseWorks/Programming/C++/prgrms/S4/DataStructures/Trials/CodeBlocks/Projects/LinkedLists/main.cpp
+	"List.h"
+	<iostream>
+
+1391963061 /home/harish/Desktop/CourseWorks/Programming/C++/prgrms/S4/DataStructures/Trials/CodeBlocks/Projects/LinkedLists/List.h
+	<iostream>
+	<cstdlib>
+	<climits>
+	<stdexcept>
+	<string>
+	<algorithm>
+	"List.cpp"
+
+1392236143 /home/harish/Desktop/CourseWorks/Programming/C++/prgrms/S4/DataStructures/Trials/CodeBlocks/Projects/LinkedLists/List.cpp
+	"List.h"
+
