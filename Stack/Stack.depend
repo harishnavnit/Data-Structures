@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1392653161 source:/home/harish/Desktop/CourseWorks/Programming/C++/prgrms/S4/DataStructures/Trials/CodeBlocks/Projects/Stack/main.cpp
+	"stack.h"
+	"stack.cpp"
+
+1392653382 /home/harish/Desktop/CourseWorks/Programming/C++/prgrms/S4/DataStructures/Trials/CodeBlocks/Projects/Stack/stack.h
+	<iostream>
+	<cstdlib>
+	<algorithm>
+	<vector>
+	<stdexcept>
+	<iomanip>
+	<climits>
+
+1392300599 /home/harish/Desktop/CourseWorks/Programming/C++/prgrms/S4/DataStructures/Trials/CodeBlocks/Projects/Stack/stack.cpp
+	"stack.h"
+
