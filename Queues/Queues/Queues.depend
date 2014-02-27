@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1393491195 source:/home/harish/Desktop/CourseWorks/Programming/C++/prgrms/S4/DataStructures/Trials/CodeBlocks/Projects/Queues/Queues/main.cpp
+	"QueueInt.h"
+
+1391924568 /home/harish/Desktop/CourseWorks/Programming/C++/prgrms/S4/DataStructures/Trials/CodeBlocks/Projects/Queues/Queues/Queue.h
+	<iostream>
+	<cstdlib>
+	<climits>
+	<stdexcept>
+	<algorithm>
+	<vector>
+	<string>
+	<fstream>
+	"Queue.cpp"
+
+1391923599 /home/harish/Desktop/CourseWorks/Programming/C++/prgrms/S4/DataStructures/Trials/CodeBlocks/Projects/Queues/Queues/Queue.cpp
+	"Queue.h"
+
+1393489566 /home/harish/Desktop/CourseWorks/Programming/C++/prgrms/S4/DataStructures/Trials/CodeBlocks/Projects/Queues/Queues/QueueInt.h
+	<iostream>
+	<cstdlib>
+	<climits>
+	<stdexcept>
+	<algorithm>
+	<string>
+	<cstring>
+	"QueueInt.cpp"
+
+1393491244 /home/harish/Desktop/CourseWorks/Programming/C++/prgrms/S4/DataStructures/Trials/CodeBlocks/Projects/Queues/Queues/QueueInt.cpp
+	"QueueInt.h"
+
