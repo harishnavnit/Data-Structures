@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1393494629 source:/home/harish/Desktop/CourseWorks/Programming/C++/prgrms/S4/DataStructures/Trials/CodeBlocks/Projects/GenericStack/main.cpp
+	"GenericStack.h"
+
+1393494519 /home/harish/Desktop/CourseWorks/Programming/C++/prgrms/S4/DataStructures/Trials/CodeBlocks/Projects/GenericStack/GenericStack.h
+	<iostream>
+	<cstdlib>
+	<stdexcept>
+	<algorithm>
+	<string>
+	<cstring>
+	<climits>
+	<iomanip>
+	"GenericStack.cpp"
+
+1393494973 /home/harish/Desktop/CourseWorks/Programming/C++/prgrms/S4/DataStructures/Trials/CodeBlocks/Projects/GenericStack/GenericStack.cpp
+	"GenericStack.h"
+
