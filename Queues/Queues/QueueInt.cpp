@@ -51,6 +51,8 @@ void Queue_Int::pop() {
 /*Print the queue from front to rear */
 void Queue_Int::print() {
 
+    cout<<endl;
+
     if(empty()) {
         cout<<"\nEmty Queue"<<endl;
     }
@@ -63,4 +65,6 @@ void Queue_Int::print() {
         else
         cout<<"--"<<data[i];
     }
+
+    cout<<endl;
 }
